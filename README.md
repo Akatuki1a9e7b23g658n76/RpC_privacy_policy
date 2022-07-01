@@ -21,4 +21,4 @@
 
 何かご不明な点がございましたら下記までお問い合わせください。
 
-akatuki03147@gmail.com
+[お問い合わせフォーム](https://forms.gle/8TeoCaoiVnoqxnCD6)
