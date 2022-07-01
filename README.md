@@ -1,4 +1,6 @@
-![img.jpg](./img.jpg)
+<p align="center">
+  <img src="./img.jpg">
+</p>
 
 # RpC : パスワード生成 
 
